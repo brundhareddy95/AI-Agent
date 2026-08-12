@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Date: Mon, 10 Aug 2026 14:16:47 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 108
+Connection: keep-alive
+
+{"errors":[{"message":"Malformed Authorization header","extensions":{"path":"$","code":"invalid-headers"}}]}

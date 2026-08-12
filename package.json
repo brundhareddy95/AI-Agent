@@ -1,0 +1,8 @@
+{
+  "name": "ai-agent-workflow-builder",
+  "private": true,
+  "scripts": {
+    "dev:web": "npm --prefix apps/web run dev",
+    "dev:engine": "npm --prefix apps/workflow-engine run dev"
+  }
+}
