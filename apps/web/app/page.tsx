@@ -215,7 +215,6 @@ function statusClass(status: string) {
 }
 
 export default function Page() {
-  
   // ---- auth state ----
   const [checkingSession, setCheckingSession] =
     useState(true);
