@@ -1,11 +1,6 @@
 {
-  "builds": [
-    {
-      "src": "apps/web/package.json",
-      "use": "@vercel/next"
-    }
-  ],
-  "projects": {
-    "rootDirectory": "apps/web"
+  "framework": {
+    "name": "nextjs",
+    "version": "13.4.4"
   }
 }
