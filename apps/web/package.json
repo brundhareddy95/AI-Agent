@@ -5,6 +5,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@nhost/nhost-js": "^4.8.0",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest"
